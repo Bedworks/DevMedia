@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Página Teste</title>
+    </head>
+    <body>
+        <h1>Produtos em promoção</h1>
+        <h2>Informática</h2>
+            <div>
+                <h3>Notebook Lenovo Ideapad</h3>
+                <p>R$ 3.500,00</p>
+                <img src="images/11380821_384628705070871_381898286_n.jpg"/>
+                <p>Com o Notebook da Lenovo...</p>
+                <a href="https://twitter.com/home" target="_blank">
+                    Comprar
+                </a>
+            </div>
+
+            <div>
+                <h3>Computador Desktop</h3>
+                <p>R$ 2.500,00</p>
+                <img src="images/WIN_20220417_14_30_53_Pro.jpg"/>
+                <p>Acompanhado de Monitor LED...</p>
+                <a href="https://twitter.com/home" target="_blank">
+                    Comprar
+                </a>
+            </div>
+    </body>
+</html>
